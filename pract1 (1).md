@@ -7,6 +7,7 @@
 ## Задача 1
 
 Вывести отсортированный в алфавитном порядке список имен пользователей в файле passwd (вам понадобится grep).
+![image](https://github.com/user-attachments/assets/d91692bd-1e28-454e-9771-cc1309a2344f)
 
 ## Задача 2
 
@@ -20,6 +21,7 @@
 139 hip
 138 manet
 ```
+![image](https://github.com/user-attachments/assets/7fbe4624-f0ea-4087-a888-c920a6237c20)
 
 ## Задача 3
 
@@ -31,6 +33,7 @@
 | Hello from RTU MIREA! |
 +-----------------------+
 ```
+![image](https://github.com/user-attachments/assets/bd948658-e185-4d94-9fea-895d0839b305)
 
 Перед отправкой решения проверьте его в ShellCheck на предупреждения.
 
@@ -43,6 +46,7 @@
 ```
 h hello include int main n printf return stdio void world
 ```
+![image](https://github.com/user-attachments/assets/be3cb5a9-40cb-44af-b7b2-002035b0826b)
 
 ## Задача 5
 
@@ -53,6 +57,7 @@ h hello include int main n printf return stdio void world
 ```
 ./reg banner
 ```
+![image](https://github.com/user-attachments/assets/d535ecdd-7074-4709-ac4f-b30633d811f8)
 
 В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
 
